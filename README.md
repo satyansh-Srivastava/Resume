@@ -1,6 +1,6 @@
 # SATYANSH SRIVASTAVA
 📞 6307198695 | 📧 satyansh23@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/srivastava-satyansh/) | 🔗 [GitHub](https://github.com/SatyanshSrivastava)  
+🔗 [LinkedIn](https://www.linkedin.com/in/srivastava-satyansh/) | 🔗 [GitHub](https://github.com/SatyanshSrivastava)  
 
 ## **Product Manager 2 | 2.5+ years of experience in Product, Data, and DevOps**
 
@@ -77,4 +77,6 @@
 
 **Soft Skills:**  
 - Cross-Functional Collaboration, Customer Empathy, Strategic Thinking  
-- Team Leadership, Problem-Solving  
+- Team Leadership, Problem-Solving
+
+Link to download my resume: [SatyanhsSrivastava](https://drive.google.com/file/d/17i5fJffthNVt1X0KjD6OYRKMks3FZQOl/view?usp=drivesdk)
